@@ -1,0 +1,7 @@
+C:\Users\Cletus Xavier\source\repos\ConsoleApp_drinkDispensor\bin\Debug\ConsoleApp_drinkDispensor.exe.config
+C:\Users\Cletus Xavier\source\repos\ConsoleApp_drinkDispensor\bin\Debug\ConsoleApp_drinkDispensor.exe
+C:\Users\Cletus Xavier\source\repos\ConsoleApp_drinkDispensor\bin\Debug\ConsoleApp_drinkDispensor.pdb
+C:\Users\Cletus Xavier\source\repos\ConsoleApp_drinkDispensor\obj\Debug\ConsoleApp_drinkDispensor.csproj.AssemblyReference.cache
+C:\Users\Cletus Xavier\source\repos\ConsoleApp_drinkDispensor\obj\Debug\ConsoleApp_drinkDispensor.csproj.CoreCompileInputs.cache
+C:\Users\Cletus Xavier\source\repos\ConsoleApp_drinkDispensor\obj\Debug\ConsoleApp_drinkDispensor.exe
+C:\Users\Cletus Xavier\source\repos\ConsoleApp_drinkDispensor\obj\Debug\ConsoleApp_drinkDispensor.pdb
